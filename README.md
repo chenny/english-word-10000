@@ -59,4 +59,4 @@ mysql 文件有有道和microsoft抓取的原始数据
 | 48   | time              | 时间         | taɪm                    | taɪm                    | NOUN       | 0.3473    | 初中,高中,CET4,CET6,考研                          | 10    |
 
 ## Thanks
-from https://github.com/first20hours/google-10000-english
+from [google-10000-english](https://github.com/first20hours/google-10000-english)
