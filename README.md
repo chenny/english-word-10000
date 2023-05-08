@@ -1,5 +1,12 @@
 # english-word-10000
 This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
+## 数据来源
+from https://github.com/first20hours/google-10000-english
+发音来自有道
+词意来自 microsoft
+first_prop 为第一词性
+prop_rate 第一词性占比
+mysql 文件有有道和microsoft抓取的原始数据
 ## english-word-top50
 | id   | words             | chinese    | uk                      | us                      | first_prop | prop_rate | youdao_cate                                 | means |
 |------|-------------------|------------|-------------------------|-------------------------|------------|-----------|---------------------------------------------|-------|
