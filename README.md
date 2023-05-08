@@ -1,7 +1,6 @@
 # english-word-10000
 This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
-## 数据来源
-from https://github.com/first20hours/google-10000-english
+## 数据说明
 发音来自有道
 词意来自 microsoft
 first_prop 为第一词性
@@ -58,3 +57,6 @@ mysql 文件有有道和microsoft抓取的原始数据
 | 46   | no                | 没有         | nəʊ                     | noʊ                     | DET        | 0.4494    | 初中,高中,CET4,CET6,考研                          | 3     |
 | 47   | information       | 信息         | ˌɪnfəˈmeɪʃ(ə)n          | ˌɪnfərˈmeɪʃ(ə)n         | NOUN       | 0.4639    | 初中,高中,CET4,CET6,考研,商务                       | 7     |
 | 48   | time              | 时间         | taɪm                    | taɪm                    | NOUN       | 0.3473    | 初中,高中,CET4,CET6,考研                          | 10    |
+
+## Thanks
+from https://github.com/first20hours/google-10000-english
