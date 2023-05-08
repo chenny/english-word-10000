@@ -9,8 +9,8 @@ mysql 文件有有道和microsoft抓取的原始数据
 ## english-word-top50
 | id   | words             | chinese    | uk                      | us                      | first_prop | prop_rate | youdao_cate                                 | means |
 |------|-------------------|------------|-------------------------|-------------------------|------------|-----------|---------------------------------------------|-------|
-| 1    | the               | 的          | ðə; ði                  | ðə; ði                  | DET        | 1         | 初中,高中,CET4,CET6,考研                          | 1     |
-| 2    | of                | 的          | ɒv; əv                  | ʌv; əv                  | PREP       | 1         | 初中,高中,CET4,CET6,考研                          | 1     |
+| 1    | the               | 的          | [🔊](https://dict.youdao.com/dictvoice?audio=the&type=1) ðə; ði                  | [🔊](https://dict.youdao.com/dictvoice?audio=the&type=2) ðə; ði                  | DET        | 1         | 初中,高中,CET4,CET6,考研                          | 1     |
+| 2    | of                | 的          | [🔊](https://dict.youdao.com/dictvoice?audio=of&type=1) ɒv; əv                  | [🔊](https://dict.youdao.com/dictvoice?audio=of&type=2) ʌv; əv                  | PREP       | 1         | 初中,高中,CET4,CET6,考研                          | 1     |
 | 3    | and               | 和          | ænd; ənd                | ænd; ənd                | CONJ       | 0.3721    | 初中,高中,CET4,CET6,考研                          | 4     |
 | 4    | to                | 到          | tuː; tə                 | tuː; tə                 | PREP       | 1         | 初中,高中,CET4,CET6,考研                          | 1     |
 | 5    | in                | 在          | ɪn                      | ɪn                      | PREP       | 0.6463    | 初中,高中,CET4,CET6,考研                          | 2     |
